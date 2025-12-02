@@ -1,7 +1,7 @@
 <!-- Github profile -->
 ### Hi There 👋
 
-- Hi, I am Zilu Meng, a Ph.D. student at the University of Washington. 🎓
+- Hi, I am Zilu Meng, a Ph.D. Candiate at the University of Washington. 🎓
 
 - My research interests include paleoclimate, machine learning, climate dynamics, and data assimilation. 🌍🤖
 
